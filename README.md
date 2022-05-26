@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Patle</h1>
-<h3 align="center">A mere codeing enthusenthusiast from India</h3>
+<h3 align="center">coding enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgit69&label=Profile%20views&color=0e75b6&style=flat" alt="harshgit69" /> </p>
 
